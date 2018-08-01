@@ -1,0 +1,36 @@
+#
+# Mac
+#
+.DS_Store
+
+#
+# Git
+#
+!.gitkeep
+
+#
+# Nodejs
+#
+npm-debug.log
+node_modules
+logs
+tmp
+
+#
+# IDE's
+#
+.idea/
+.vscode/
+*.iml
+*.iws
+*.sublime-workspace
+*.sublime-project
+*.bk
+typings/
+
+#
+# Test
+#
+nohup.out
+
+yarn.lock
