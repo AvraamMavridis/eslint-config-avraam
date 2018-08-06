@@ -1,5 +1,7 @@
 # eslint-config-avraam
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/AvraamMavridis/eslint-config-avraam.svg)](https://greenkeeper.io/)
+
 ## To install
 
 1. Install shared config `npm install --save-dev eslint-config-avraam`.
